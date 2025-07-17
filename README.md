@@ -1,16 +1,29 @@
-## Hi there 👋
+![](https://raw.githubusercontent.com/hashed-cmd/hashed-cmd/refs/heads/main/libraries/bann.png)
 
-<!--
-**hashed-cmd/hashed-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"><code>hashed-cmd</code></h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>🇵🇱 a lua programmer from poland, raised through criticism so everything here is sublime. 🇵🇱</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ builds
+#### unexpected-cmd  
+> **An open source Roblox admin commands script**  
+> `fast` • `sleek` • `sublime` • `roblox`
+>  
+> [`→ Explore the repository`](https://github.com/hashed-cmd/unexpected-cmd)
+
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hashed-cmd/hashed-cmd/refs/heads/main/libraries/activity.png" alt="Activity" />
+</p>
+
+---
+
+<div align="center">
+  <sub><kbd>⊳ born from lua ⊳ </kbd><kbd>running on hgh</kbd><kbd>⌁ always criticizing</kbd></sub>
+</div>
